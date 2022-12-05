@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on [The Lens of News Media](https://github.com/ah140797/news_media_NLP)
+- 🔭 I’m currently working on my [Bachelor's Project](https://github.com/ah140797/Bachelor)
 
-- 🌱 I’m currently learning **NLP and text-mining**
+- 🌱 I’m currently learning **Machine Learning using scikit-learn**
 
 - 📫 How to reach me **au651039@post.au.dk**
 
