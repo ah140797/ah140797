@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anders</h1>
-<h3 align="center">A student of Cognitive Science at Aarhus University.</h3>
+<h3 align="center">Studying master in Data Science at IT-University Copenhagen</h3>
 
-How to reach me **ahju@itu.dk**
+Reach me at **ahju@itu.dk**
 
 </p>
 
