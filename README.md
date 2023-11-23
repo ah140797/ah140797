@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anders</h1>
 <h3 align="center">A student of Cognitive Science at Aarhus University.</h3>
 
-
-
-- 🔭 I’m currently working on my [Bachelor's Project](https://github.com/ah140797/Bachelor)
-
-- 🌱 I’m currently learning **Machine Learning using scikit-learn**
-
-- 📫 How to reach me **au651039@post.au.dk**
+How to reach me **ahju@itu.dk**
 
 </p>
 
